@@ -1,0 +1,16 @@
+codigo,nome,preco,quantidade
+001,Notebook Dell Inspiron,3899.9,10
+002,Smartphone Samsung Galaxy S22,4299.0,15
+003,Impressora HP DeskJet 3776,499.99,20
+004,"Monitor LG 24"" Full HD",899.9,12
+005,Mouse Logitech M170,79.9,30
+006,Teclado Mecânico Redragon Kumara,239.9,25
+007,Cadeira Gamer ThunderX3,1299.0,8
+008,Headset JBL Quantum 200,289.0,18
+009,HD Externo Seagate 1TB,349.9,16
+010,Pendrive Kingston 64GB,59.9,40
+011,Serviço de Instalação de Software,150.0,100
+012,Serviço de Limpeza de Hardware,120.0,100
+013,Atualização de Sistema Operacional,200.0,100
+014,Montagem de Computador,250.0,50
+015,Serviço de Backup de Dados,180.0,70
